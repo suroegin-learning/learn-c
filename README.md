@@ -1,1 +1,1 @@
-# learn-c
+# Learn C programming language
